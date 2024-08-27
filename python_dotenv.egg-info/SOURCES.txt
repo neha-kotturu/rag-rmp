@@ -1,0 +1,6 @@
+README.md
+setup.py
+python_dotenv.egg-info/PKG-INFO
+python_dotenv.egg-info/SOURCES.txt
+python_dotenv.egg-info/dependency_links.txt
+python_dotenv.egg-info/top_level.txt
